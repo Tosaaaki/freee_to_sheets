@@ -1,0 +1,6 @@
+google-cloud-secret-manager>=2.19.0
+google-cloud-logging>=3.11.0
+google-cloud-pubsub>=2.19.0
+google-auth>=2.29.0
+google-api-python-client>=2.125.0
+requests>=2.31.0
